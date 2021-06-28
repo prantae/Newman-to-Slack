@@ -17,7 +17,7 @@ config_file_secured=''
 # global vars
 newman_required_ver='3.1.0'
 node_required_ver='4.0.0'
-newman_args='--reporter-cli-no-failures --reporter-cli-no-assertions --reporter-cli-no-console --no-color'
+newman_args='--reporter-cli-no-failures --reporter-cli-no-assertions --reporter-cli-no-console'
 verbose=0
 
 # show the version number
